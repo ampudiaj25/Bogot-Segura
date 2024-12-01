@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v54_4 {
+  width: 402px;
+  height: 874px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v54_5 {
+  width: 402px;
+  height: 153px;
+  background: rgba(135,236,216,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  overflow: hidden;
+}
+.v54_6 {
+  width: 339px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 62px;
+  left: 31px;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_27 {
+  width: 267px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 391px;
+  left: 31px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_28 {
+  width: 323px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 418px;
+  left: 47px;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_34 {
+  width: 267px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 208px;
+  left: 31px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_35 {
+  width: 355px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 240px;
+  left: 47px;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_31 {
+  width: 339px;
+  height: 57px;
+  background: linear-gradient(rgba(78,97,93,1), rgba(78,87,85,1));
+  opacity: 1;
+  position: absolute;
+  top: 777px;
+  left: 31px;
+  border: 3px solid rgba(89,104,101,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v54_32 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 793px;
+  left: 154px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v54_40 {
+  width: 184px;
+  height: 104px;
+  background: url("../images/v54_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 641px;
+  left: 89px;
+  border: 3px solid rgba(0,0,0,1);
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}

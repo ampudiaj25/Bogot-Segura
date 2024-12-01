@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v75_4 {
+  width: 402px;
+  height: 874px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v75_5 {
+  width: 402px;
+  height: 153px;
+  background: rgba(135,236,216,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  overflow: hidden;
+}
+.v75_6 {
+  width: 339px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 62px;
+  left: 31px;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v75_18 {
+  width: 339px;
+  height: 57px;
+  background: linear-gradient(rgba(78,97,93,1), rgba(78,87,85,1));
+  opacity: 1;
+  position: absolute;
+  top: 750px;
+  left: 31px;
+  border: 3px solid rgba(89,104,101,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v75_19 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 766px;
+  left: 154px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v80_27 {
+  width: 339px;
+  height: 395px;
+  background: url("../images/v80_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 255px;
+  left: 31px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v75_22 {
+  width: 268px;
+  height: 62px;
+  background: rgba(217,217,217,0.10000000149011612);
+  opacity: 1;
+  position: absolute;
+  top: 169px;
+  left: 34px;
+  border: 3px solid rgba(33,216,179,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v75_23 {
+  width: 229px;
+  color: rgba(98,87,87,1);
+  position: absolute;
+  top: 187px;
+  left: 54px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
